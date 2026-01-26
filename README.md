@@ -33,6 +33,9 @@ The insights from this analysis help businesses:
 - 🎯 Improve marketing strategies
 - 📦 Optimize inventory planning
 - 🤝 Increase customer retention
+  Dashboard
+- <img width="1607" height="814" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/710f5108-f913-45a5-a1b8-0adae8c3f238" />
+
 
 - 💡 Thank you for checking out this project!  
 Feel free to explore the repository or connect with me on GitHub.
